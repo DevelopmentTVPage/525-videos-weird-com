@@ -10,6 +10,23 @@
         "loginId": "1758799",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "weird.com"
+        "cookiedomain": "weird.com",
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ]
+            }
+        },
+        "player": {
+            "playback": {
+                "autonext": true
+            }
+        }
     }
 }
