@@ -22,6 +22,11 @@
                     "email"
                 ]
             }
+        },
+        "player": {
+            "playback": {
+                "autonext": true
+            }
         }
     }
 }
